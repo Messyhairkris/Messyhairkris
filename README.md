@@ -1,4 +1,4 @@
-### I'm Kris 👋
+### I'm Kris
 
 I'm an artist who treats problem solving as creative work. I learn unfamiliar things by throwing myself into them, then turn what I learn into clearer explanations, better tools, and repeatable systems. I like working between disciplines and seeing a problem from both the expert's perspective and the beginner's.
 
@@ -18,4 +18,4 @@ Automation, flexible tools, and prototypes built with AI that eventually become 
 
 I also have a few larger tools in development around 3D capture and publishing, reading and collaboration, and communication for small teams. These include experiments with splats, photogrammetry, e-ink and e-readers, and ways to help small groups build and share things together.
 
-📫 **messyhair.kris@gmail.com** · [LinkedIn](https://www.linkedin.com/in/kris-struble-b930507) · San Francisco
+**messyhair.kris@gmail.com** · [LinkedIn](https://www.linkedin.com/in/kris-struble-b930507) · San Francisco
